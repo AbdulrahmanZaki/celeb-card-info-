@@ -1,6 +1,6 @@
 const contacts = [
   {
-    name: "Brad Pitt",
+    name: "Bradly Pitt",
     img: "https://media1.popsugar-assets.com/files/thumbor/4UYUg9UKWqqhaFfElFDU9bKMRgQ/356x1145:1857x2646/fit-in/500x500/filters:format_auto-!!-:strip_icc-!!-/2019/09/04/970/n/1922398/cc3fa7b15d70381d55bd82.88203803_/i/Brad-Pitt.jpg",
     phone: "+123 456 789",
     email: "bpitt@mailservice.com",
