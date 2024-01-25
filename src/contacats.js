@@ -9,7 +9,7 @@ const contacts = [
     name: "Jack Bauer",
     img: "https://pbs.twimg.com/profile_images/625247595825246208/X3XLea04_400x400.jpg",
     phone: "+123 456 789",
-    email: "jack@mailservice.com",
+    email: "jack@electronicmailservice.com",
   },
   {
     name: "Chuck Norris",
